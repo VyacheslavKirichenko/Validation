@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\currencyconverter.Droid.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\currencyconverter.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\System.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\User\Desktop\Validator\Validation\Droid\obj\Debug\90\android\assets\Mono.Security.dll

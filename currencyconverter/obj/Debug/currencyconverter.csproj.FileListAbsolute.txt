@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Validator\Validation\currencyconverter\bin\Debug\currencyconverter.dll
+C:\Users\User\Desktop\Validator\Validation\currencyconverter\bin\Debug\currencyconverter.pdb
+C:\Users\User\Desktop\Validator\Validation\currencyconverter\obj\Debug\currencyconverter.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Validator\Validation\currencyconverter\obj\Debug\currencyconverter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Validator\Validation\currencyconverter\obj\Debug\currencyconverter.dll
+C:\Users\User\Desktop\Validator\Validation\currencyconverter\obj\Debug\currencyconverter.pdb

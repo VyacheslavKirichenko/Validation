@@ -4,3 +4,5 @@
 
 /.vs/currencyconverter/v15/Server/sqlite3/db.lock
 /.vs/currencyconverter/v15/Server/sqlite3
+/currencyconverter/bin/Debug
+/Droid/bin/Debug
